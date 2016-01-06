@@ -1,18 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Actualizado 19/12/2015 @ 10:00 PM  (MEXICO)[/COLOR]  
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Charlies[/COLOR][COLOR skyblue] Channels[/COLOR][COLOR red]--------------[/COLOR]
 http://t.tvultimate.mx
-
-
-
-
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]TvUltimate[/COLOR][COLOR skyblue] HD[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-
-
-
 
 #EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL102/PROFILE05.m3u8?tvultimate=%2F.ts
