@@ -17,6 +17,9 @@ http://t.tvultimate.mx
 #EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL102/PROFILE05.m3u8?tvultimate=%2F.ts
 
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas SD
+http://tvultimate.ddns.net/LIVE/H01/CANAL102/PROFILE03.m3u8?tvultimate=%2F.ts
+
 #EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5
 http://tvultimate.ddns.net/LIVE/H01/CANAL105/PROFILE05.m3u8?tvultimate=%2F.ts
 
