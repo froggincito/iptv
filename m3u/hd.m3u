@@ -6,35 +6,35 @@ http://t.tvultimate.mx
 #EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL102/PROFILE05.m3u8?tvultimate=%2F.ts
 
-#EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5 HD
+#EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5
 http://tvultimate.ddns.net/LIVE/H01/CANAL105/PROFILE05.m3u8?tvultimate=%2F.ts
 
-#EXTINF:-1 tvg-logo="azteca 7.png",Azteca 7 HD
+#EXTINF:-1 tvg-logo="azteca 7.png",Azteca 7
 http://tvultimate.ddns.net/LIVE/H01/CANAL107/PROFILE05.m3u8?tvultimate=%2F.ts
 
-#EXTINF:0 tvg-logo="azteca 7.png",Azteca Corazon HD
+#EXTINF:0 tvg-logo="azteca 7.png",Azteca Corazon
 http://tvultimate.ddns.net/LIVE/H01/CANAL45/PROFILE02.m3u8?tvultimate=%2F.ts
 
-#EXTINF:-1 tvg-logo="ocho tv.png",Ocho Tv HD
+#EXTINF:-1 tvg-logo="ocho tv.png",Ocho Tv
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="azteca 13.png",El Trece HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL13/PROFILE05.m3u8?tvultimate=%2F.ts
 
-#EXTINF:-1 tvg-logo="gala tv hd.png",Gala TV HD
+#EXTINF:-1 tvg-logo="gala tv hd.png",Gala TV
 http://tvultimate.ddns.net/LIVE/H01/CANAL109/PROFILE05.m3u8?tvultimate=%2F.ts
 
-#EXTINF:-1 tvg-logo="multimedios.png",Multimedios Monterrey HD
+#EXTINF:-1 tvg-logo="multimedios.png",Multimedios Monterrey
 http://tvultimate.ddns.net/LIVE/H01/CANAL167/PROFILE05.m3u8?tvultimate=%2F.ts
 
-#EXTINF:-1 tvg-logo="azteca Noticias.png",Azteca Noticias HD 
+#EXTINF:-1 tvg-logo="azteca Noticias.png",Azteca Noticias
 http://tvultimate.ddns.net/LIVE/H01/CANAL2/PROFILE05.m3u8?tvultimate=%2F.ts
 
 #EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales Nacionales[/COLOR][COLOR skyblue] SD[/COLOR][COLOR red]--------------[/COLOR]
 http://t.tvultimate.mx
 
 
-#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL102/PROFILE03.m3u8?tvultimate=%2F.ts
 
 #EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5 
