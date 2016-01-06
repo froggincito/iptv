@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales Nacionales[/COLOR][COLOR skyblue] HD[/COLOR][COLOR red]--------------[/COLOR]
+#EXTINF:-1,[COLOR red]----[/COLOR][COLOR blue]Canales Nacionales[/COLOR][COLOR skyblue] HD[/COLOR][COLOR red]-----[/COLOR]
 http://t.tvultimate.mx
 
 #EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
@@ -30,7 +30,7 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL167/PROFILE05.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="azteca Noticias.png",Azteca Noticias
 http://tvultimate.ddns.net/LIVE/H01/CANAL2/PROFILE05.m3u8?tvultimate=%2F.ts
 
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales Nacionales[/COLOR][COLOR skyblue] SD[/COLOR][COLOR red]--------------[/COLOR]
+#EXTINF:-1,[COLOR red]----[/COLOR][COLOR blue]Canales Nacionales[/COLOR][COLOR skyblue] SD[/COLOR][COLOR red]----[/COLOR]
 http://t.tvultimate.mx
 
 
@@ -62,7 +62,7 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL167/PROFILE03.m3u8?tvultimate=%2F.ts
 http://tvultimate.ddns.net/LIVE/H01/CANAL2/PROFILE03.m3u8?tvultimate=%2F.ts
 
 
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]CAble[/COLOR][COLOR skyblue] HD[/COLOR][COLOR red]--------------[/COLOR]
+#EXTINF:-1,[COLOR red]Ñ---[/COLOR][COLOR blue]Cable[/COLOR][COLOR skyblue] HD[/COLOR][COLOR red]----[/COLOR]
 http://t.tvultimate.mx
 
 
