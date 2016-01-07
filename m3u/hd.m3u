@@ -336,34 +336,6 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL732/PROFILE05.m3u8?tvultimate=%2F.ts
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="vevo.png",VEVO HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-
-#EXTINF:-1 tvg-logo="vevo.png",Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="vevo.png",Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="HBO.png",HBO Family  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="hbo plus.png",HBO Plus [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="hbo2.png",HBO 2  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="HBO.png",HBO Signature  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-
-
-
 #EXTINF:-1 tvg-logo="proyecto 40.png",Proyecto 40
 http://tvultimate.ddns.net/LIVE/H01/CANAL140/PROFILE05.m3u8?tvultimate=%2F.ts
 
