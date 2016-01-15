@@ -26,10 +26,27 @@ http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?tvultimate=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?tvultimate=%2F.ts
 
 #EXTINF:-1 tvg-logo="azteca Noticias.png",Azteca Noticias HD 
+<<<<<<< HEAD
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?tvultimate=%2F.ts
+=======
+http://tvultimate.ddns.net/LIVE/H01/CANAL2/PROFILE03.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="univision.png",Univision
+http://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream/media-u09rz05dm_72496.m3u8
+
+#EXTINF:-1 tvg-logo="telemundo.png",Telemundo
+http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/playlist.m3u8
+>>>>>>> origin/master
 
 #EXTINF:-1 tvg-logo="tvultimate.png",Peliculas 24/7
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="HBO.png",HBO
+http://104.236.94.5:1382/hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="HBO.png",HBO2
+http://104.236.94.5:1382/hbo2/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
