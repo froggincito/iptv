@@ -189,7 +189,7 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I610.56222.tutvguia.com" tvg-name="610_FINANCIERO610FINANCIEROEl_Financiero_-_Bloomberg" tvg-logo="bloomberg.png" group-title="Latino",Bloomberg
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="Total-MX_I651.8864.tutvguia.com" tvg-name="651_TVE_I651TVE_ITVE_Internacional_2_(North_&_Central_America)" tvg-logo="tve.png" group-title="Latino",TVE
+#EXTINF:-1 tvg-id="Total-MX_I651.8864.tutvguia.com" tvg-name="651_TVEAME2651TVEAME2TVE_Internacional_2_(North_&_Central_America)" tvg-logo="tve.png" group-title="Latino",TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I701.29083.tutvguia.com" tvg-name="701_MTVLIVHD701MTVLIVHDMTV_Live_(MTVNHD_European_for_US_Lineups)" tvg-logo="mtv-live-hd.png" group-title="Latino",MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -205,7 +205,7 @@ http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I728.24537.tutvguia.com" tvg-name="728_VH1C728VH1CVH1_Classic_Europe_(North_America)" tvg-logo="vh1-classisc.png" group-title="Latino",VH1 Classisc
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="Total-MX_I731.1996.tutvguia.com" tvg-name="731_RITMO731RITMORitmoson" tvg-logo="ritmoson-latino.png" group-title="Latino",Ritmoson Latino
+#EXTINF:-1 tvg-id="Total-MX_I731.1996.tutvguia.com" tvg-name="731_RITMOS731RITMOSRitmoson" tvg-logo="ritmoson-latino.png" group-title="Latino",Ritmoson Latino
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I732.23363.tutvguia.com" tvg-name="732_BANDMX732BANDMXBandamax_(Mexico)" tvg-logo="bandamax.png" group-title="Latino",Bandamax
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
