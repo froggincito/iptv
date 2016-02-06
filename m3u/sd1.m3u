@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Lista[/COLOR][COLOR skyblue] de Emergencia[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
+http://104.236.61.232:8081/live/sky69/Estrellascsp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas -2
+http://198.199.105.26:8081/live/sky83/Estrellas-2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="azteca 13.png",El Trece HD
+http://aztecalive-lh.akamaihd.net:80/i/0oxnvzh8a_1@175671/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=“hbo.png”,HBO
+http://104.236.94.5:1382/hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tnt hd.png",TNT HD
+http://104.236.232.245:1382/tntseries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="discovery channel.png",Discovery Theater HD
+http://104.236.94.5:1382/discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",FOX+
+http://104.236.98.15:1382/fox1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox Classic
+http://104.236.98.15:1382/foxclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox Movies
+http://104.236.94.5:1382/foxmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox Action
+http://104.236.94.5:1382/foxaction/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fox life.png",Fox Life
+http://104.236.85.248:1382/foxlife/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fox life.png",Fox Cinema
+http://104.236.94.5:1382/foxcinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="sony.png",Sony HD
+http://104.236.94.5:1382/sony/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tlc hd.png",TLC
+http://104.236.98.15:1382/tlc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="natgeo.png",NatGeo
+http://104.236.85.248:1382/natgeo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="history hd.png",History
+https://video02-atl.streamup.com/app/turbo-maxs-channel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="history hd.png",History 2
+http://104.236.85.248:1382/h2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“warner hd.png”,Warner
+http://104.236.94.5:1382/warner/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“telemundo.png”,Telemundo 
+https://video03-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
