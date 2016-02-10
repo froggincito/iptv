@@ -14,8 +14,7 @@ http://104.236.232.245:1382/axn/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="BBC Entertainment" group-title="ENTRETENIMIENTO",BBC Entertainment
 http://cubeta-vision.ddns.net:8000/live/PlayKodi-9NS/PlayKodi-9NS/12.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal de las Estrellas -2“ tvg-name="Canal de las Estrellas Latinoamérica" tvg-logo="Canal de las Estrellas -2 Horas“ group-title="ENTRETENIMIENTO",Canal de las Estrellas Latinoamérica
-
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal de las Estrellas“ tvg-name="Canal de las Estrellas -2“ tvg-logo="Canal de las Estrellas Latinoamérica“ group-title="ENTRETENIMIENTO",Canal de las Estrellas -2
 http://198.199.105.26:8081/live/sky83/Estrellas-2/chunks.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal de las Estrellas" tvg-name="Canal de las Estrellas Latinoamérica" tvg-logo="Canal de las Estrellas Latinoamérica" group-title="ENTRETENIMIENTO",Canal de las Estrellas Latinoamérica
 http://104.236.61.232:8081/live/sky69/Estrellascsp/playlist.m3u8
