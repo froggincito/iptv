@@ -27,7 +27,7 @@ http://162.243.133.156:1583/distritocomedia/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="E! Entertainment Television" group-title="ENTRETENIMIENTO",E! Entertainment Television
 http://162.243.133.156:1583/entertainment/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Fox" tvg-name="Fox" tvg-logo="Fox" group-title="ENTRETENIMIENTO",Fox
-http://45.55.81.38:1583/fox/playlist.m3u8
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Fox Life" tvg-name="Fox Life" tvg-logo="Fox Life" group-title="ENTRETENIMIENTO",Fox Life
 http://104.236.85.248:1382/foxlife/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Lifetime" tvg-name="Lifetime" tvg-logo="Lifetime" group-title="ENTRETENIMIENTO",Lifetime
