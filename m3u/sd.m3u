@@ -1,51 +1,14 @@
 #EXTM3U
-#EXTINF:0,group-title="etiquetas",[B][COLOR cyan]SIR CHARLES TV[/COLOR] - [COLOR lightgreen]17/02/2016 - 08:40PM[/COLOR] - [COLOR orange]facebook.com/groups/PlayKodi[/COLOR][/B]
+#EXTINF:0,group-title="etiquetas",[B][COLOR cyan]emergency list[/COLOR] - [COLOR lightgreen]17/02/2016 - 08:40PM[/COLOR] - [COLOR orange]facebook.com/groups/PlayKodi[/COLOR][/B]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0,group-title="etiquetas",[B]Donaciones via PayPal: hola_scg@hotmail.com[/B]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:0, group-title="etiquetas",[COLOR lime][B]<< ENTRETENIMIENTO >>[/B][/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",A&E (Baja Resolución)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=aehd&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",A&E (Full HD)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=aehd&cal=5&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=aehd&cal=3&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI AXN" tvg-name="AXN" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",AXN (Baja Resolución)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=axnhd&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI AXN" tvg-name="AXN" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",AXN (Full HD)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=axnhd&cal=5&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI AXN" tvg-name="AXN" tvg-logo="AXN" group-title="ENTRETENIMIENTO",AXN
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=axnhd&cal=3&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Antena 3 Internacional" tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Az Corazón" tvg-name="Az Corazón" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",Az Corazón (Baja Resolución)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=azcorazon&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Az Corazón" tvg-name="Az Corazón" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",Az Corazón (Full HD)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=azcorazon&cal=5&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Azteca 7" tvg-name="Azteca 7" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",Azteca 7 MX (Baja Resolución)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=azteca7&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Azteca 7" tvg-name="Azteca 7" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",Azteca 7 MX (Full HD)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=azteca7&cal=5&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Azteca 7" tvg-name="Azteca 7" tvg-logo="Azteca 7" group-title="ENTRETENIMIENTO",Azteca 7 MX
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=azteca7&cal=3&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",BBC Entertainment (Baja Resolución)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=bbcentertainment&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",BBC Entertainment (Full HD)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=bbcentertainment&cal=5&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="BBC Entertainment" group-title="ENTRETENIMIENTO",BBC Entertainment
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=bbcentertainment&cal=3&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",Canal 5 México (Baja Resolución)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=canal5&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",Canal 5 México (Full HD)
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=canal5&cal=5&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="Canal 5" group-title="ENTRETENIMIENTO",Canal 5 México
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=canal5&cal=3&tk=auth9ejnr4fd
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal de las Estrellas Latinoamérica" tvg-name="Canal de las Estrellas Latinoamérica" tvg-logo="Canal de las Estrellas Latinoamérica" group-title="ENTRETENIMIENTO",Canal de las Estrellas Latinoamérica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+http://104.236.61.232:8081/live/sky69/Estrellascsp/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="Canal De Las Estrellas" group-title="ENTRETENIMIENTO",Canal De Las Estrellas MX
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+http://198.199.105.26:8081/live/sky83/Estrellas-2/chunks.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Comedy Central" tvg-name="Comedy Central" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",Comedy Central (Baja Resolución)
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=comedycentralhd&cal=2&tk=auth9ejnr4fd
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Comedy Central" tvg-name="Comedy Central" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",Comedy Central (Full HD)
